@@ -1,0 +1,13 @@
+{
+  "name": "edgepanel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Edgepanel — Cloudflare Worker wrapped as a Node.js HTTP server for Hostless",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
